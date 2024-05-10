@@ -75,7 +75,7 @@ public class Main extends javax.swing.JFrame{
         datos.setEditable(false);
         datos.setColumns(20);
         datos.setRows(5);
-        datos.setText("INTEGRANTES:\n\n* Hernández Hernández Edgar\n*\n*\n*");
+        datos.setText("INTEGRANTES:\n\n* Hernández Hernández Edgar\n* Benavides Castro Fernando\n*\n*");
         jScrollPane1.setViewportView(datos);
 
         jComboBox1.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Parcial", "Completo" }));
